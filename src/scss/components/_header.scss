@@ -5,10 +5,9 @@
   @extend .shadow;
   background-color: var(--clr-elem);
   padding: 1em 4em;
-  
 
   #{&}__heading {
-    font-size: clamp(1.2em, 3vmin + 0.3em, 2em);
+    font-size: clamp(1em, 3vmin + 0.3em, 2em);
   }
 
   #{&}__theme-switcher {
