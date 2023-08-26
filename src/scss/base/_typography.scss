@@ -6,7 +6,6 @@ body {
   background-color: var(--clr-bg);
 
   > * {
-    width: min(100%, em(1500));
     margin-inline: auto;
   }
 }
